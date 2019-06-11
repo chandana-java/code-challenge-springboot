@@ -1,6 +1,6 @@
 This is a spring boot project with REST API to get all the user accounts and the selected account transactions
 
-'gradlew build' wil build the project.
+'gradlew build' will build the project.
 
 Run 'UserAccountInformation.java' as java application.
 
