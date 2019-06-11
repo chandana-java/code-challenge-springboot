@@ -1,2 +1,7 @@
-# code-challenge-springboot
-springboot with REST API
+This is a spring boot project with REST API to get all the user accounts and the selected account transactions
+
+'gradlew build' wil build the project.
+
+Run 'UserAccountInformation.java' as java application.
+
+And then start the frontend application.
